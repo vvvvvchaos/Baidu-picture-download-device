@@ -11,5 +11,5 @@ venv实际上就是python的虚拟环境，虚拟环境是真实环境的副本�
 ![image](https://user-images.githubusercontent.com/107102952/202853879-b28afb63-ca2f-4a69-8ff3-82eac4950ae8.png)
 ![image](https://user-images.githubusercontent.com/107102952/202854103-84698340-9659-421c-a876-47ddf1d80b2f.png)
 
-
+项目环境：python 3.6  项目所依赖的第三方库需要自行下载
 
